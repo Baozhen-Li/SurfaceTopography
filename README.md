@@ -19,4 +19,15 @@ The following badge should say _build passing_. This means that all automated te
 Documentation
 -------------
 
-This README file contains a brief introduction into the code. The full documentation can be found at https://computationalmechanics.github.io/SurfaceTopography/.
+[Sphinx](https://www.sphinx-doc.org/)-generated documentation can be found [here](https://computationalmechanics.github.io/SurfaceTopography/).
+
+Dependencies
+------------
+
+The package requires :
+- **numpy** - https://www.numpy.org/
+- **NuMPI** - https://github.com/imtek-simulation/numpi
+- **muFFT** - https://gitlab.com/muspectre/muspectre
+
+Optional dependencies:
+- **runtests** - https://github.com/bccp/runtests
